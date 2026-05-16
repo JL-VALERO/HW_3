@@ -1,5 +1,5 @@
-raster-digital-divide/data/VNL_cusco_2025.tif
-raster-digital-divide/data/kernel_cobmovil2019_50m.tif
+data/VNL_cusco_2025.tif
+data/kernel_cobmovil2019_50m.tif
 *.tiff
 __pycache__/
 .ipynb_checkpoints/
